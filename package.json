@@ -1,5 +1,5 @@
 {
-	"name": "@mbaharip/ui",
+	"name": "@mbaharip/mikazuki",
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/mikazuki-ui"
 	},
